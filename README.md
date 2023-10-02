@@ -1,5 +1,5 @@
 # selenium-rekvizitai
-> to install librarys python
+> to install librrarys python
 ```
 pip install -r requirements.txt
 ```
